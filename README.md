@@ -1,1 +1,1 @@
-# RealTime-Sign-language-Prediction
+# Real-Time-Sign-language-prediction
